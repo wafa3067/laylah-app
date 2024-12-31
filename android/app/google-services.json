@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "47281063166",
+    "project_id": "laylah-cf6ac",
+    "storage_bucket": "laylah-cf6ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47281063166:android:d4dd10e41ae789ec0ad1af",
+        "android_client_info": {
+          "package_name": "com.app.laylah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47281063166-7gkdlpmsljdleju4s3aobr56ge23roue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.laylah",
+            "certificate_hash": "0fac635b64bf947ae2920124ab1aca6675beb62b"
+          }
+        },
+        {
+          "client_id": "47281063166-ddcma8r2pqlnn1vir0704n2rkoujsvr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgmUEDmc6Ls0FP5hjVrg7F8TH4jaAZrsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47281063166-cfo87ia4i4kta04bcgik05oijus9ailh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "47281063166-653njs9qc4ud4a15ds69d79c929t68fd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.laylah"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47281063166:android:a2fb4684ab8db10f0ad1af",
+        "android_client_info": {
+          "package_name": "com.example.laylah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47281063166-fgl0hmtcbqreltl31gdrgv0g6ehsbf2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laylah",
+            "certificate_hash": "359abf5d63c5a3b0aa8cfebf05cb95736a5667ab"
+          }
+        },
+        {
+          "client_id": "47281063166-p48e19d0l1072jpjcm140jtns539n8gv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laylah",
+            "certificate_hash": "0fac635b64bf947ae2920124ab1aca6675beb62b"
+          }
+        },
+        {
+          "client_id": "47281063166-ddcma8r2pqlnn1vir0704n2rkoujsvr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgmUEDmc6Ls0FP5hjVrg7F8TH4jaAZrsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47281063166-cfo87ia4i4kta04bcgik05oijus9ailh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "47281063166-653njs9qc4ud4a15ds69d79c929t68fd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.laylah"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
